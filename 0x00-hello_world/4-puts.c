@@ -1,2 +1,11 @@
-check inside the file 4-puts.c to see code.
-
+#include<stdio.h>
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
+{
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+}
